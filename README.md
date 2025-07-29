@@ -1,4 +1,4 @@
-# 🚀 Selenium Web Automation Project
+# 🚀 Selenium Web UI Automation Project
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Selenium](https://img.shields.io/badge/Selenium-4.0+-green.svg)](https://selenium-python.readthedocs.io/)
